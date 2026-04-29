@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Assa Jean Ulrich</h1>
-<h3 align="center">Business Analyst | Odoo ERP Consultant | Project Lead</h3>
+<h3 align="center">Project Lead & IT Support | Sr. Data Analyst & Software Engineer | Odoo Consultant</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ulrich-le-rocher-231a95174/" target="blank">
